@@ -7,3 +7,5 @@ Todos los programas se abren estando en la carpeta correspondiente del ejercicio
 Hay que destacar que las solicitudes de valores y el desplegamientos de mensajes por la terminal
 es muy engorroso, se tiene que leer bien lo que se solicita, ya que, se puede producir un error
 si se esta solicitando una variable de tipo int y se este ingresando un string.
+
+Además si llegara existir alguna duda con el codigo o algun error, por favor avisar, no obstante, se usaron variables y funciones con nombres bastantes especificos con el objetivo que tienen en el programa.
